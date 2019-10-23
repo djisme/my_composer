@@ -17,11 +17,6 @@
         "psr-4": {
             "pf\\arr\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "example\\": "example"
-        }
     }
 
 }
