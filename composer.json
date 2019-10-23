@@ -1,0 +1,28 @@
+{
+    "name": "dj/composer",
+    "description": "Mr.DJ composer",
+    "homepage":"https://github.com/Neroxiezi/pfinal-array",
+    "license": "MIT",
+    "keywords": [
+        "pfinal",
+        "Mr.DJ",
+        "Mr.DJ",
+        "array",
+        "php-array"
+    ],
+
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "pf\\arr\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "example\\": "example"
+        }
+    }
+
+}
